@@ -1,3 +1,11 @@
+# ZS 爆倉算表 ⚡
+
+對標幣安的加密貨幣合約強平價計算工具,支援 BTC/ETH/SOL。
+
+🔗 **線上版本**: https://sdgfw.github.io/zs_BTC_ETH_SOL/
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
